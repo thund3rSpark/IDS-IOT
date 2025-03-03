@@ -1,0 +1,6 @@
+[submodule "Education/Final"]
+	path = Education/Final
+	url = https://github.com/thund3rSpark/IDS-IOT.git
+[submodule "Education/IDS-IOT"]
+	path = Education/IDS-IOT
+	url = https://github.com/thund3rSpark/IDS-IOT.git
